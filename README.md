@@ -5,3 +5,4 @@
 5) Press ctrl Z to save and quit
 6) Do 'git add -A' to do something
 7) Do 'git commit -m "[description]" to write a description for the commit
+8) Do 'git push' to push it to your repo's fork
