@@ -1,11 +1,1 @@
-# OpenData - web
-
-## Setup
-
-1. Clone this repository
-2. `npm install`
-3. `npm run dev`
-
-## I need help!
-
-* [Next.js Tutorial](https://nextjs.org/learn/basics/getting-started/first-page)
+I am editing this document. This is me editting this document. Is editing spelled with one t or two??
